@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Watermelon",
+    "description": "Up to 91% water",
+    "image": "https://www.myfooddata.com/images/watermelon.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Strawberry",
+    "description": "Up to 91% water",
+    "image": "https://www.myfooddata.com/images/strawberry.JPG"
+  },
+  {
+    "id": 3,
+    "name": "Grapefruit",
+    "description": "Up to 91% water",
+    "image": "https://www.myfooddata.com/images/grapefruit.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Cantaloupe",
+    "description": "Up to 90% water",
+    "image": "https://www.myfooddata.com/images/cantaloupe.JPG"
+  },
+  {
+    "id": 5,
+    "name": "Peach",
+    "description": "Up to 89% water",
+    "image": "https://www.myfooddata.com/images/peach.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Asian Pear",
+    "description": "Up to 88% water",
+    "image": "https://www.myfooddata.com/images/asian-pear.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Blackberry",
+    "description": "Up to 88% water",
+    "image": "https://www.myfooddata.com/images/blackberry.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Papaya",
+    "description": "Up to 91% water",
+    "image": "https://www.myfooddata.com/images/papaya.JPG"
+  },
+  {
+    "id": 9,
+    "name": "Plum",
+    "description": "Up to 87% water",
+    "image": "https://www.myfooddata.com/images/plum.JPG"
+  },
+  {
+    "id": 10,
+    "name": "Orange",
+    "description": "Up to 87% water",
+    "image": "https://www.myfooddata.com/images/orange.jpg"
+  }
+]

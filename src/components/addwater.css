@@ -1,0 +1,45 @@
+.waterintake {
+  /* background-color: aqua; */
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.waterlist {
+  /* background-color: #3546b1; */
+  max-height: 250px;
+  overflow-y: scroll;
+}
+
+.totalwater {
+  background-color: #3546b1;
+  color: aliceblue;
+  border-radius: 20px;
+  display: flex;
+  padding: 10px;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.wateritem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 50px;
+  background-color: white;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 20px;
+}
+
+.waterform {
+  background-color: #3545b14a;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  padding-left: 20px;
+  padding-top: 20px;
+}
